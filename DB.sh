@@ -2,3 +2,5 @@
 Mongodb
 Mariadb
 Mysql
+PosgreSQL
+DynamoDB
